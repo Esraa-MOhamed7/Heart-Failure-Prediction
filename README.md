@@ -43,8 +43,7 @@ This project aims to predict the likelihood of heart failure using clinical data
 ---
 ##Visualizations
 ### Feature Distributions
-![Age Histogram](charts/age_histogram.png)
-![Cholesterol Boxplot](charts/cholesterol_boxplot.png)
+![Age Histogram](https://github.com/Esraa-MOhamed7/Heart-Failure-Prediction/blob/main/Feature%20distributions.png)
 
 ### Feature Correlation
 ![Correlation Heatmap](charts/correlation_heatmap.png)
