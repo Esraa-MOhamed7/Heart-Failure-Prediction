@@ -46,6 +46,6 @@ This project aims to predict the likelihood of heart failure using clinical data
 ![Feature Distributions Histogram](https://github.com/Esraa-MOhamed7/Heart-Failure-Prediction/blob/main/Feature%20distributions.png)
 
 ### Feature Correlation
-![Correlation Heatmap](charts/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/Esraa-MOhamed7/Heart-Failure-Prediction/blob/main/Correlation%20heatmap.png)
 
 
