@@ -1,6 +1,6 @@
 # 🫀 Heart Failure Prediction Project  
 ### Predicting Risk Using Machine Learning Models   
-**Languages:** Python | 🇬🇧 English & 🇸🇦 Arabic Documentation  
+**Languages:** Python | English & Arabic Documentation  
 
 ---
 
